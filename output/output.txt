@@ -1,0 +1,16 @@
+PS C:\Users\zack1\OneDrive\Documents\GitHub\week-2-wed-lab-zack1stplayer>
+                                                                           & 'c:\Users\zack1\.vscode\extensions\ms-vscode.cpptools-1.26.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-gdprmqfs.l45' '--stdout=Microsoft-MIEngine-Out-ycuz0sr4.0rd' '--stderr=Microsoft-MIEngine-Error-wozdckzp.5sl' '--pid=Microsoft-MIEngine-Pid-fszci3o0.bnb' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
+Invalid index, could not replace
+Invalid index, could not insert
+May Your Heart
+Element 2: Heart
+May Your Drums Beat
+Invalid index, could not remove
+List is empty, no elements to display.
+thirdList length: 3
+thirdList maximum size: 5
+Invalid index, could not get
+Array is full, could not append
+Array is full, could not insert
+May Your Heart Be A Yellow
+myList is empty!
